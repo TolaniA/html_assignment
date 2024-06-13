@@ -1,0 +1,23 @@
+
+  .navbar {
+    width: 100%;
+    overflow: auto;
+  }
+  
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  img{
+    float: left;
+  }
+
+
+  .right-nav {
+    float: right;
+  }
+
